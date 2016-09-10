@@ -13,5 +13,9 @@ h1 {
 .Introduction{
 	text-align: justify;
 	letter-spacing: 2px;
-	line-height: 2.0";
+	line-height: 2.0;
+}
+p{
+	font-family: Arial, sans-serif;
+	font-size: 22px;
 }
