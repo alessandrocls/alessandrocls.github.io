@@ -10,6 +10,9 @@ h1 {
 	font-size: 40px;
 	font-family: Century Gothic, sans-serif;
 }
+a{
+	margin-right: 4em
+}
 .Introduction{
 	text-align: justify;
 	letter-spacing: 2px;
@@ -22,5 +25,4 @@ p{
 .Misc{
 	text-align: center;
 	font-size: 20px;
-	
 }
