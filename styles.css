@@ -11,7 +11,7 @@ h1 {
 	font-family: Century Gothic, sans-serif;
 }
 .image{
-	margin-left: 15em
+	margin-left: 45em
 }
 .Introduction{
 	text-align: justify;
@@ -25,4 +25,7 @@ p{
 .Misc{
 	text-align: center;
 	font-size: 20px;
+}
+a:visited{
+	color:#055F7C
 }
