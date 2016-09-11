@@ -11,7 +11,15 @@ h1 {
 	font-family: Century Gothic, sans-serif;
 }
 .image{
-	margin-left: 45em
+	margin-left: 45em;
+	cursor: pointer;
+	height: 300px;
+	width: 300px;
+	transition-property: background;
+	transition-duration: 1s;
+	transition-timing-function: linear;
+	width: 300px;
+	
 }
 .image{
 	background-image: 21309393.jpg;
