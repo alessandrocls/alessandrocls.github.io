@@ -40,7 +40,13 @@ p{
 	font-size: 20px;
 }
 a:visited{
-	color:#055F7C
+	color:#055F7C;
+}
+@keyframes spin{
+	0% {transform: rotate(0deg);}
+	33%{transform: rotate(360deg);}
+	67%{transform: rotate(-360deg);}
+	100%(transform: rotate(360deg);})
 }
 button{
 	border: 0;
@@ -52,9 +58,13 @@ button{
 	outline:0;
 	padding: 10px 15px;
 	transition: all .1s linear;
-	box-shadow: 0 5px 0 #006599
+	box-shadow: 0 5px 0 #006599;
+	animation-name: spin;
+	animation-duration: 6s;
+	animation-iteration-count: infinite;
 }
 button:active{
 	box-shadow: 0 2px 0 #006599;
 	transform: translateY(3px);
 }
+
