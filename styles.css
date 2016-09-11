@@ -58,6 +58,7 @@ button:active{
 form{
 	font-family: Arial, san-serif;
 	letter-spacing: 2px;
+	line-height: 2.0;
 }
 fieldset{
 	border-radius: 8px
