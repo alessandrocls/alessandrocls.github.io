@@ -21,9 +21,6 @@ h1 {
 	width: 300px;
 	
 }
-.image{
-	background-image: 21309393.jpg;
-}
 .image:hover{
 	background-image: images/Instagram-512.png;
 	width: 300px;
