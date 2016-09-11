@@ -1,0 +1,31 @@
+body{
+	background-color: #E8CC86;
+	line-height: 1.5;
+}
+#Title {
+	text-align: Center;
+	text-transform: uppercase;
+	color: #9BA076;
+}
+h1{
+	font-size: 35px;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+.images{
+	border-radius: 4px;
+	width: 150px;
+	height: 150px;
+	margin: 20px;
+}
+h2{
+	font-size: 20px;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+.headers{
+	text-align: left;
+	color: #9BA076;
+}
+p{
+	font-size: 14px;
+	font-family: "Lucida Console", Monaco, monospace;
+}
