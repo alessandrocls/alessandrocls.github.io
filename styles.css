@@ -13,8 +13,8 @@ h1 {
 .image{
 	margin-left: 45em;
 	cursor: pointer;
-	height: 300px;
-	width: 300px;
+	height: 100px;
+	width: 100px;
 	transition-property: background;
 	transition-duration: 1s;
 	transition-timing-function: linear;
