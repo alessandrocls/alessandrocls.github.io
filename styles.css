@@ -12,20 +12,8 @@ h1 {
 }
 .image{
 	margin-left: 45em;
-	cursor: pointer;
-	height: 100px;
-	width: 100px;
-	transition-property: background;
-	transition-duration: 1s;
-	transition-timing-function: linear;
-	width: 300px;
-	
 }
-.image:hover{
-	background-image: images/Instagram-512.png;
-	width: 300px;
-	height:300px;
-}
+
 .Introduction{
 	text-align: justify;
 	letter-spacing: 2px;
